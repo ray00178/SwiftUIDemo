@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "large-nasa-taiwan.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
